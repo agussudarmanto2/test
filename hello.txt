@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 Hallo, agus
-=======
-Hallo, ini File Aslinya
->>>>>>> upstream/master
